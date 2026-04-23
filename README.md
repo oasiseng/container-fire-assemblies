@@ -66,7 +66,7 @@ For full citations, equivalency arguments, and limits/caveats, see the [white pa
 1. Read the [white paper](docs/white-paper.md) (especially §7 — Limits and §8 — Permit Submittal).
 2. Pick the assembly that matches your project's rating requirement and direction.
 3. Drop [`details/CFW-Detail-Sheet.pdf`](details/CFW-Detail-Sheet.pdf) into your architectural set, referenced from the wall type schedule.
-4. Get a project-specific PE-stamped letter from a PE licensed in the project jurisdiction.
+4. Get a project-specific [Pe-Stamped Letter](https://engineerletters.co) from a PE licensed in the project jurisdiction.
 5. Pre-coordinate with the AHJ before submittal.
 
 **Oasis Engineering offers project-specific PE letters and stamping based on these assemblies.** Email or visit [oasisengineering.com](https://oasisengineering.com) to start a project.
