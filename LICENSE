@@ -1,21 +1,46 @@
 MIT License
 
-Copyright (c) 2026 Oasis Engineering
+Copyright (c) 2026 Oasis Engineering, PLLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
+of this software and associated documentation files (the "Materials"), to deal
+in the Materials without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+copies of the Materials, and to permit persons to whom the Materials are
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the Materials.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ENGINEERING NOTICE
+
+The fire-resistance-rated wall assemblies, details, calculations, and code
+analyses contained in this repository are published for educational and
+reference purposes. They represent a generalized engineering approach to
+demonstrating compliance with IBC Section 703.2.2(4) — Engineering Analysis
+based on a comparison of building element, component, or assembly designs
+having fire-resistance ratings as determined by the test procedures set forth
+in ASTM E119 or UL 263.
+
+Use of these details on a real project requires:
+
+  1. Site-specific review by a Professional Engineer licensed in the
+     jurisdiction of the project.
+  2. Acceptance by the Authority Having Jurisdiction (AHJ) under IBC
+     Section 104.11 — Alternative Materials, Design and Methods of
+     Construction and Equipment.
+  3. Verification that proprietary products specified (intumescent coatings,
+     gypsum board, insulation, sealants) match the listings referenced and
+     are installed per the manufacturer's listed thickness, primer, topcoat,
+     and substrate preparation requirements.
+
+Oasis Engineering, PLLC offers PE stamping and project-specific engineering
+analysis based on these assemblies. Contact: oasisengineering.com
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN
+THE MATERIALS.
