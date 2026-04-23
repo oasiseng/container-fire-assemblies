@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/oasislogo.png" alt="Oasis Engineering" width="220">
+  <img src="assets/OasisLogo.PNG" alt="Oasis Engineering" width="220">
 </p>
 
 # Container Fire-Rated Wall Assemblies
