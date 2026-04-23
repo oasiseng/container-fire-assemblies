@@ -89,7 +89,7 @@ The fire-resistance analyses, assemblies, and details in this repository are pub
 
 ## Maintainer
 
-**Oasis Engineering, PLLC**
-Engineer of record: Enrique Lairet, PE
+**Oasis Engineering, LLC**
+Engineer: Enrique Lairet, PE
 Web: [oasisengineering.com](https://oasisengineering.com)
 GitHub: [github.com/oasiseng](https://github.com/oasiseng)
