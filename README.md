@@ -14,7 +14,7 @@ Maintained by **[Oasis Engineering](https://oasisengineering.com)** · Engineer:
 
 ## Why this exists
 
-For fifteen years, container projects have stalled at plan review on a single question: *what is the fire-resistance rating of the wall?* The folklore in the industry says no UL-listed assembly works for containers. **That folklore is wrong.** UL Design V497 is a *one-sided* tested assembly — the unprotected side is bare studs in the test. When V497 is applied to the interior face of a container, the corrugated steel container skin takes the place of that unprotected side. The skin is unambiguously *more* protective than nothing. The rating holds. The whole industry has been looking for a symmetric tested assembly when an asymmetric one was sufficient.
+For years, container projects have stalled at plan review on a single question: *what is the fire-resistance rating of the wall?* The folklore in the industry says no UL-listed assembly works for containers. **That folklore is wrong.** UL Design V497 is a *one-sided* tested assembly — the unprotected side is bare studs in the test. When V497 is applied to the interior face of a container, the corrugated steel container skin takes the place of that unprotected side. The skin is unambiguously *more* protective than nothing. The rating holds. The whole industry has been looking for a symmetric tested assembly when an asymmetric one was sufficient.
 
 This repo publishes the framework openly so any container builder, architect, AHJ, or owner can use it.
 
