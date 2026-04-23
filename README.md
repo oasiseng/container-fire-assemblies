@@ -8,7 +8,7 @@
 
 Built on **UL Design V497** (GA File **WP 1297**), a one-sided steel-stud partition that covers both 1HR and 2HR ratings under a single UL design number. Direct application per **IBC §703.2.2(1)**. No alternative-means submittal required for the typical case.
 
-Maintained by **[Oasis Engineering](https://oasisengineering.com)** · Engineer of record: Enrique Lairet, PE.
+Maintained by **[Oasis Engineering](https://oasisengineering.com)** · Engineer: Enrique Lairet, PE.
 
 ---
 
